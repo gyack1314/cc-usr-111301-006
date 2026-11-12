@@ -1,0 +1,9 @@
+     3.04           OBSERVATION DATA    M                   RINEX VERSION / TYPE
+G    3 C1C L1C S1C                                          SYS / # / OBS TYPES 
+  2026    10    27     0     0    0.0000000     UTC         TIME OF FIRST OBS   
+     0                                                      RCV CLOCK OFFS APPL 
+                                                            END OF HEADER       
+> 2016 12 31 23 59 60.0000000  0  1
+G01         1.00017                         2.000  
+> 2017 01 01 00 00  0.0000000  0  1
+G01         2.00017                         3.000  

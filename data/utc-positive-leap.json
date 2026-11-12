@@ -1,0 +1,28 @@
+{
+  "kind": "rinex-observation",
+  "assets": [
+    {
+      "path": "utc-leap.rnx",
+      "bytes": 581,
+      "sha256": "f918680e76308974107eebf87b0565f8adae894f9c3f21d2503fa5d57aa4336a"
+    }
+  ],
+  "source": {
+    "path": "utc-leap.rnx",
+    "bytes": 581,
+    "sha256": "f918680e76308974107eebf87b0565f8adae894f9c3f21d2503fa5d57aa4336a"
+  },
+  "supported_version": "3.04",
+  "leap_table": [
+    {
+      "effective_utc": "2015-07-01T00:00:00Z",
+      "tai_minus_utc": 36
+    },
+    {
+      "effective_utc": "2017-01-01T00:00:00Z",
+      "tai_minus_utc": 37
+    }
+  ],
+  "leap_valid_until": "2027-01-01T00:00:00Z",
+  "max_epoch_satellites": 999
+}
